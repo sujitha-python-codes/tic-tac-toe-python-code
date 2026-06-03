@@ -14,5 +14,8 @@ A modern Tic Tac Toe game built using Python and Tkinter.
 - Python
 - Tkinter
 
+## Screenshot
+![Game Screenshot](Screenshot.png)
+
 ## Author
 Sujatha Maripi
